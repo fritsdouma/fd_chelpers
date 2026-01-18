@@ -1,4 +1,4 @@
-add_library(fd_chelpers SHARED)
+add_library(fd_chelpers STATIC)
 
 target_sources(fd_chelpers
     PRIVATE
